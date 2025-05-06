@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Mahmoud Yasser, a fresh graduate with a degree in Communication and Information Engineering. I enjoy building dynamic, responsive websites.
+## 👋  Hi, I'm Mahmoud Yasser, a Software Engineer skilled in building efficient solutions to complex problems.
 🛠️ I'm currently working on Trace; an e-learning platform for children: https://www.traceedtech.com/ 
 
 # 💻 Tech Stack:
